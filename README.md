@@ -1,4 +1,4 @@
-# MundoDatos
+# Análisis conceptual – Devart
 # ¿Qué problema principal busca resolver la normalización en una base de datos y por qué es crítica en sistemas empresariales?
     La normalizacion de busca resolver el problema de la organizacion de los datos, y mas para empresas grandes donde guardan muchos datos y esto se vuelve un caos
     
